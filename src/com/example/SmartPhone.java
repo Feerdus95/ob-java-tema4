@@ -1,6 +1,6 @@
 package com.example;
 
-public class SmartPhone extends SmartDevice {
+public class SmartPhone extends SmartDevice {           //Comentarios similares a SmartWatch
 
     boolean is5g;
 
